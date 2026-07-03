@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Building web applications, workflow automations and system integrations.
+  Building scalable web applications, workflow automations, and seamless system integrations.
 </p>
 
 <p align="center">
@@ -25,12 +25,21 @@
 
 ## About Me
 
-- 🎓 Bachelor in Science and Technology
-- 🎓 Technical Degree in Systems Development
-- 💻 Full-Stack Developer focused on modern web applications, workflow automation and system integration
-- ⚡ Experience with React, Next.js, Node.js, Express.js, PostgreSQL and n8n
-- 📚 Improving my skills in software architecture, backend development and scalable solutions
-- 🚀 Passionate about solving real problems through technology
+- 🎓 **Academic Background:** Bachelor in Science and Technology | Technical Degree in Systems Development.
+- 💻 **Core Focus:** Full-Stack development specialized in transforming complex business logic into modern, efficient digital solutions.
+- ⚡ **Expertise:** Architecting applications and APIs using React, Next.js, Node.js, Express.js, and PostgreSQL.
+- 🤖 **Automation:** Strong skills in workflow automation and B2B system integration using n8n and Webhooks.
+- 🚀 **Goal:** Bridging the gap between engineering principles and real-world impact through clean code.
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[PetFind](https://petfind.tech/)** | A complete platform connecting pet owners for companionship and responsible reproduction. Features intelligent matching logic, detailed profiles, and secure integrated chat. | *React, Next.js, Node.js, PostgreSQL* |
+| **[Floresci Psicopedagogia](https://12vieira.github.io/floresci/)** | A lightweight, conversion-focused platform for child development and special education, offering a minimal UI/UX for delivering educational materials. | *React, TailwindCSS, Frontend Architecture* |
+| **[Mensageiros da Automação](https://cool-sesame-61658973.figma.site/)** | A robust B2B solution combining automated customer service, commercial organization, and visual pipelines to optimize sales timing and eliminate repetitive tasks. | *Node.js, n8n, API Integrations* |
 
 ---
 
@@ -52,50 +61,12 @@
 ## GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=12vieira&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db&icon_color=ffffff" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12vieira&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db" alt="Most Used Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12vieira&theme=dark&bg_color=000000&title_color=ffffff&text_color=d1d5db" alt="GitHub Profile Details" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=12vieira&theme=dark&bg_color=000000&title_color=ffffff&text_color=d1d5db" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=12vieira&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=9ca3af&currStreakLabel=ffffff&sideLabels=d1d5db&dates=9ca3af" alt="GitHub Streak" />
-</p>
-
----
-
-## Current Focus
-
-- Full-Stack Development
-- React & Next.js
-- API Development with Node.js and Express.js
-- PostgreSQL
-- Workflow Automation with n8n
-- System Integrations
-- Building scalable and useful digital solutions
-
----
-
-## What I Like to Build
-
-- Web applications and dashboards
-- REST APIs and backend services
-- Automation workflows
-- Internal tools for businesses
-- Integrations between platforms and services
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/12vieira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Pimentel%20Vieira-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=374151" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vieira.devops12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-vieira.devops12%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=374151" alt="Email" />
-  </a>
-  <a href="https://github.com/12vieira" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-12vieira-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=374151" alt="GitHub" />
-  </a>
 </p>
 
 ---
