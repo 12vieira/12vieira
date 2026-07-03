@@ -1,9 +1,6 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:1f2937,75:6b7280,100:f9fafb&height=230&section=header&text=Matheus%20Pimentel%20Vieira&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Automation%20%7C%20System%20Integration&descAlignY=58&descSize=16" alt="Header banner" />
 </p>
-
-<h1 align="center">Hi, I'm Matheus Pimentel Vieira 👨‍💻</h1>
-
 <p align="center">
   <strong>Full-Stack Developer | React | Next.js | PostgreSQL | n8n</strong>
 </p>
