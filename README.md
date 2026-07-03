@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Bachelor in Science and Technology
 - 🎓 Technical Degree in Systems Development
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,express,postgres,git,github,vscode&theme=dark" alt="Tech Stack" />
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=12vieira&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db&icon_color=ffffff" alt="GitHub Stats" />
@@ -65,7 +65,7 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Full-Stack Development
 - React & Next.js
@@ -77,7 +77,7 @@
 
 ---
 
-## 💡 What I Like to Build
+## What I Like to Build
 
 - Web applications and dashboards
 - REST APIs and backend services
@@ -87,7 +87,7 @@
 
 ---
 
-## 🌎 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/12vieira" target="_blank">
