@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4b5563,100:ffffff&height=220&section=header&text=Matheus%20Pimentel%20Vieira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner Matheus Pimentel Vieira" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:1f2937,75:6b7280,100:f9fafb&height=230&section=header&text=Matheus%20Pimentel%20Vieira&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Automation%20%7C%20System%20Integration&descAlignY=58&descSize=16" alt="Header banner" />
 </p>
 
-<h1 align="center">👨‍💻 Hi, I'm Matheus Pimentel Vieira</h1>
+<h1 align="center">Hi, I'm Matheus Pimentel Vieira 👨‍💻</h1>
 
 <p align="center">
   <strong>Full-Stack Developer | React | Next.js | PostgreSQL | n8n</strong>
 </p>
 
 <p align="center">
-  Building Web Applications, Workflow Automations and System Integrations.
+  Building web applications, workflow automations and system integrations.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/12vieira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-12vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-12vieira-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=374151" alt="LinkedIn" />
   </a>
   <a href="mailto:vieira.devops12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-vieira.devops12-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-vieira.devops12-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=374151" alt="Email" />
   </a>
   <a href="https://github.com/12vieira" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-12vieira-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-12vieira-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=374151" alt="GitHub" />
   </a>
 </p>
 
@@ -28,65 +28,39 @@
 
 ## 🚀 About Me
 
-🎓 Bachelor in Science and Technology  
-🎓 Technical Degree in Systems Development  
-💻 Full-Stack Developer focused on modern web applications, workflow automation and system integration  
-⚡ Experience with React, Next.js, Node.js, Express.js, PostgreSQL and n8n  
-📚 Constantly improving my skills in software architecture, backend development and scalable solutions  
-🚀 Passionate about solving problems through technology  
+- 🎓 Bachelor in Science and Technology
+- 🎓 Technical Degree in Systems Development
+- 💻 Full-Stack Developer focused on modern web applications, workflow automation and system integration
+- ⚡ Experience with React, Next.js, Node.js, Express.js, PostgreSQL and n8n
+- 📚 Improving my skills in software architecture, backend development and scalable solutions
+- 🚀 Passionate about solving real problems through technology
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" alt="Frontend Skills" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,express,postgres,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
-### Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
-</p>
-
-### Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="Database Skills" />
-</p>
-
-### Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
-</p>
-
-### Automation & Integrations
-
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Webhooks-374151?style=for-the-badge" alt="Webhooks" />
-  <img src="https://img.shields.io/badge/System%20Integration-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="System Integration" />
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=white&labelColor=EA4B71" alt="n8n" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=374151" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Webhooks-111827?style=for-the-badge&logo=webhook&logoColor=white&labelColor=4b5563" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/System%20Integration-111827?style=for-the-badge&logo=databricks&logoColor=white&labelColor=000000" alt="System Integration" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=12vieira&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db&icon_color=9ca3af" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12vieira&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db" alt="Most Used Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=12vieira&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db&icon_color=ffffff" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12vieira&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db" alt="Most Used Languages" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=12vieira&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=9ca3af&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=12vieira&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=9ca3af&currStreakLabel=ffffff&sideLabels=d1d5db&dates=9ca3af" alt="GitHub Streak" />
 </p>
 
 ---
@@ -105,32 +79,25 @@
 
 ## 💡 What I Like to Build
 
-- Web applications
-- Dashboards
-- APIs
+- Web applications and dashboards
+- REST APIs and backend services
 - Automation workflows
 - Internal tools for businesses
-- Integration between platforms and services
+- Integrations between platforms and services
 
 ---
 
 ## 🌎 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/12vieira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Pimentel%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Pimentel%20Vieira-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=374151" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="left">
   <a href="mailto:vieira.devops12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-vieira.devops12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-vieira.devops12%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=374151" alt="Email" />
   </a>
-</p>
-
-<p align="left">
   <a href="https://github.com/12vieira" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-12vieira-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-12vieira-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=374151" alt="GitHub" />
   </a>
 </p>
 
@@ -141,5 +108,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:4b5563,100:000000&height=120&section=footer" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f9fafb,25:6b7280,55:1f2937,100:000000&height=120&section=footer" alt="Footer banner" />
 </p>
