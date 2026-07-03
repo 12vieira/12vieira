@@ -58,16 +58,20 @@
 
 ---
 
-## GitHub Overview
+## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12vieira&theme=dark&bg_color=000000&title_color=ffffff&text_color=d1d5db" alt="GitHub Profile Details" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=12vieira&theme=dark&bg_color=000000&title_color=ffffff&text_color=d1d5db" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=12vieira&theme=dark" alt="GitHub Stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=12vieira&theme=dark" alt="Top Languages by Repo" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=12vieira&theme=dark&utcOffset=-3" alt="Commits (UTC -3)" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=12vieira&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=9ca3af&currStreakLabel=ffffff&sideLabels=d1d5db&dates=9ca3af" alt="GitHub Streak" />
-</p>
+<br/>
+
+<div align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12vieira&theme=dark" alt="Profile Details" />
+  <img height="160" src="https://streak-stats.demolab.com?user=12vieira&theme=dark" alt="GitHub Streak" />
+</div>
 
 ---
 
