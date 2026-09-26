@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.mavai.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Site-mav.AI-111827?style=for-the-badge&logo=site&logoColor=white&labelColor=374151" alt="Site" />
+    <img src="https://img.shields.io/badge/Site-mav.AI-111827?style=for-the-badge&logo=site&logoColor=blue&labelColor=2563EB" alt="Site" />
   </a>
   <a href="https://www.linkedin.com/in/12vieira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-12vieira-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=374151" alt="LinkedIn" />
